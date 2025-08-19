@@ -16,6 +16,7 @@ public static class TraceChannelStatics
 
 public enum ECollisionChannel
 {
+	Trigger = 6,
 }
 
 public static class CollisionChannelStatics

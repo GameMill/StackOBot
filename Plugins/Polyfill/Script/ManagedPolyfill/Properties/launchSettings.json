@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "UnrealSharp": {
+      "commandName": "Executable",
+      "executablePath": "C:/Epic/UE_5.6/Engine/Binaries\\Win64\\UnrealEditor.exe",
+      "commandLineArgs": "\"C:\\Users\\Chris\\Documents\\GitHub\\StackOBot\\StackOBot.uproject\""
+    }
+  }
+}
