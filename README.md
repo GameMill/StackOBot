@@ -32,7 +32,7 @@ To get started with StackOBot (C#), follow these steps:
 1. **Clone the Repository**
 
 2. **Set Up UnrealSharp**:
-    - Clone the UnrealSharp repository into the `Plugins` folder located in the root directory of the UnrealSharp-StackOBot project:
+    - Clone the UnrealSharp repository into the `Plugins` folder located in the root directory of the StackOBot (C#) project:
 
 3. **Build and Run the Project**:
     - Open the C++ solution file (`.sln`) located in the project directory.
