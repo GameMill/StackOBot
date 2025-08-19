@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/GameMill/StackOBot/pulls)
 
 
-Welcome to the UnrealSharp-StackOBot repository! 
+Welcome to the StackOBot (C#) repository! 
 
 This project is an ongoing effort to convert [StackOBot](https://dev.epicgames.com/community/learning/paths/yG/stack-o-bot), originally created in Blueprints, into C# using [UnrealSharp](https://github.com/UnrealSharp/UnrealSharp). This project will serve as a learning material with UnrealSharp!
 
@@ -23,11 +23,11 @@ The C# code is a 1:1 copy of the BPs created by Epic Games.
 ## Requirements
 
 - **Engine Version**: Unreal Engine 5.6
-- **UnrealSharp**
+- [**UnrealSharp**](https://github.com/UnrealSharp/UnrealSharp)
 
 ## Installation
 
-To get started with UnrealSharp-StackOBot, follow these steps:
+To get started with StackOBot (C#), follow these steps:
 
 1. **Clone the Repository**
 
