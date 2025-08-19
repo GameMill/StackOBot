@@ -6,6 +6,16 @@ This project is an ongoing effort to convert [StackOBot](https://dev.epicgames.c
 
 The C# code is a 1:1 copy of the BPs created by Epic Games.
 
+## Status
+| Stage | Status |
+| -------- | ------- |
+| Startup Map | :white_check_mark: |
+| Main Menu | :white_square_button: |
+
+
+
+
+
 ## Requirements
 
 - **Engine Version**: Unreal Engine 5.6
@@ -39,3 +49,7 @@ I accept pull requests and any contributions you make are **greatly appreciated*
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Notes
+
+PCG functionality is not yet available in C#, so Blueprints utilizing PCG cannot currently be fully translated into C#.
