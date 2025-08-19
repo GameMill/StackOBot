@@ -85,3 +85,6 @@ Plugins/UnrealSharp/
 # Don't include launchSettings (contains local dev paths)
 /Script/Properties/launchSettings.json
 /Script/ProjectGlue
+.vsconfig
+Script/ManagedStackOBot/Properties/launchSettings.json
+Script/StackOBot.Glue/Properties/launchSettings.json
