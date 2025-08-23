@@ -8,7 +8,7 @@ Welcome to the StackOBot (C#) repository!
 
 This project is an ongoing effort to convert [StackOBot](https://dev.epicgames.com/community/learning/paths/yG/stack-o-bot), originally created in Blueprints, into C# using [UnrealSharp](https://github.com/UnrealSharp/UnrealSharp).
 
-The C# code is a 1:1 copy of the BPs created by Epic Games.
+The C# code is a copy of the BPs created by Epic Games.
 
 ## Status
 | Stage | Status |
@@ -16,9 +16,8 @@ The C# code is a 1:1 copy of the BPs created by Epic Games.
 | Startup Map | :white_check_mark: |
 | Main Menu | :white_square_button: |
 
-
-
-
+## Changes
+- [x] Update to common input
 
 ## Requirements
 
