@@ -1,3 +1,4 @@
+# This project is currently incomplete as we are migrating to the new UnrealSharp source‑generator workflow. Updates will resume once the generator stabilises and the dependency is more production‑ready.
 # StackOBot
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
